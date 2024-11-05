@@ -33,9 +33,8 @@
     - helm
     - k3s
   serial:
-    - 1
-    - 2
-    - 5
+    - 3
+    - 3
   tags: kubernetes
 
 - name: Charts Provisioning

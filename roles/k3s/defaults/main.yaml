@@ -35,7 +35,7 @@ k3s_vars:
       dns: 10.43.0.10
       domain: cluster.local
     controlplane:
-      tainted: true
+      tainted: false
     loadbalancer:
       host: 127.0.0.1
       port: 6444
